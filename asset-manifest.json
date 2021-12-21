@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mi-datepicker/static/css/main.70fc7757.css",
+    "main.js": "/mi-datepicker/static/js/main.6e348fe4.js",
+    "index.html": "/mi-datepicker/index.html",
+    "main.70fc7757.css.map": "/mi-datepicker/static/css/main.70fc7757.css.map",
+    "main.6e348fe4.js.map": "/mi-datepicker/static/js/main.6e348fe4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70fc7757.css",
+    "static/js/main.6e348fe4.js"
+  ]
+}
